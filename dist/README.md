@@ -1,13 +1,12 @@
-<h1 align="center">ReadMe Generator using node.js 👋 </h1>
+
+<h1 align="center">Professional ReadME Generator 👋</h1>
   
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-
-ℹ️ A node.hs application that creates a generated ReadME.md file to the dist directory
+ℹ️ A ReadMe Generator that allows users to add that finishing touch to their Projects.
 
 ## Table of Contents
-
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,33 +16,28 @@
 - [Questions](#questions)
 
 ## Installation
-
-💾 npm install inquirer is required
+💾 Yes, Click on link and download file or clone to directory of your choosing, can also clone using terminal.
 
 ## Usage
-
-💻 📱 Project Challenge for Class
+💻 📱 Use by answering prompts like so and get your ReadME completed for your Projects.
 
 ## License
-
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-
-This application is covered by the MIT license.
+<br />
+This application is covered by the MIT license. 
 
 ## Contributing
-
-👥 👥 MCX
+👥 👥 Maxamed Xassan
 
 ## Tests
-
-📝 No test requested
+✏️ Use any code text editer program to test, VS Code was used to created it.
 
 ## Questions
-
-❓❓❓ eamil or reach out
-
-:octocat: Find me on GitHub: [at#yaho.com](https://github.com/at#yaho.com)>
-
-📧 Email me with any questions: gos@tao.xom
+❓❓❓ If any issues, Please fill free to contact with Email link.<br />
+<br />
+:octocat: Find me on GitHub: [Mcnoor](https://github.com/Mcnoor)<br />
+<br />
+✉️ Email me with any questions: Mcnoor@gmail.com<br /><br />
 
 _This README was generated with ❤️ by [README-generator] 🔥🔥🔥_
+    

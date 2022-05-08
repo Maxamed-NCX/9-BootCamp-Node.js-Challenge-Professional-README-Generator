@@ -22,6 +22,8 @@
 
 💾 Click the link and download the files needed into directory of your choice or clone using your terminal.
 
+[README Generator Download Link](https://github.com/Mcnoor/Challenge-Module9-BC/)
+
 ## Usage
 
 💻 📱 Use by answering the prompts and get your ReadME completed for your project.
