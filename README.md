@@ -46,6 +46,11 @@ This application is covered by the MIT license.
 
 ✏️ Use any code editer programs to test, VS Code was used to create it.
 
+
+### Images
+
+<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module9-BC/main/Media/ReadME%20Image.png">
+
 ## Questions
 
 ❓ Reach out to me vs Email in link belowe<br />
@@ -55,7 +60,3 @@ This application is covered by the MIT license.
 ✉️ Email me with any questions: maxanoor@gmail.com<br /><br />
 
 _This README was generated with ❤️ by [MCX]🖖🖖_
-
-### Images
-
-<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module9-BC/main/Media/ReadME%20Image.png">
