@@ -24,7 +24,7 @@
 
 [README Generator Download Link](https://github.com/Mcnoor/Challenge-Module9-BC/)
 
-[Tutorial on how to use app](https://watch.screencastify.com/v/qAtbpNNUnOAUiwCtuAez)
+[Tutorial on how to use app](https://watch.screencastify.com/v/Jl6t5NPfVJEszOG3Vznh)
 
 ## Usage
 
