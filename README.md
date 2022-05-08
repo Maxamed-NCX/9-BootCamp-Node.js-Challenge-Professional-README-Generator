@@ -1,19 +1,51 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+<h1 align="center">Professional-README-Generator  👋</h1>
+  
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+## Description
+
+ℹ️ A ReadME Generator that helps users with adding finishing touches to you projects.
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+💾 Click the link and download the files needed into directory of your choice or clone using your terminal.
+
+## Usage
+
+💻 📱 Use by answering the prompts and get your ReadME completed for your project.
+
+## License
+
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license.
+
+## Contributing
+
+👥 👥 Maxamed-Noor Xassan
+
+## Tests
+
+✏️ Use any code editer programs to test, VS Code was used to create it.
+
+## Questions
+
+❓❓❓ Reach out to me vs Email in link belowe<br />
+<br />
+:octocat: Find me on GitHub: [Maxanoor](https://github.com/Maxanoor)<br />
+<br />
+✉️ Email me with any questions: maxanoor@gmail.com<br /><br />
+
+_This README was generated with ❤️ by [README-generator] 🔥🔥🔥_
