@@ -55,7 +55,7 @@ This application is covered by the MIT license.
 
 ❓ Reach out to me vs Email in link belowe<br />
 <br />
-:octocat: Find me on GitHub: [Mcnoor](https://github.com/Maxanoor)<br />
+:octocat: Find me on GitHub: [Mcnoor](https://github.com/Mcnoor)<br />
 <br />
 ✉️ Email me with any questions: maxanoor@gmail.com<br /><br />
 
