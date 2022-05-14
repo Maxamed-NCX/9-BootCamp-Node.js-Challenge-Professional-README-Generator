@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-ℹ️ A ReadMe Generator that allows users to add that finishing touch to their Projects.
+ℹ️ A ReadMe Generator that allows users to add that finishing touch to their Projects
 
 ## Table of Contents
 - [Description](#description)
@@ -33,11 +33,11 @@ This application is covered by the MIT license.
 ✏️ Use any code text editer program to test, VS Code was used to created it.
 
 ## Questions
-❓❓❓ If any issues, Please fill free to contact with Email link.<br />
+❓❓❓ If any issues, Please fill free to contact with Email<br />
 <br />
 :octocat: Find me on GitHub: [Mcnoor](https://github.com/Mcnoor)<br />
 <br />
-✉️ Email me with any questions: Mcnoor@gmail.com<br /><br />
+✉️ Email me with any questions: mcnoor@gamil.com<br /><br />
 
-_This README was generated with ❤️ by [README-generator] 🔥🔥🔥_
+_This README was generated with ❤️ by [MCX]🖖🖖_
     
