@@ -1,6 +1,6 @@
 <h1 align="center">Professional-README-Generator</h1>
 
-#BootCamp-Node.js-Challenge-Professional-README-Generator#
+BootCamp-Node.js-Challenge-Professional-README-Generator
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge-Module9-BC)
