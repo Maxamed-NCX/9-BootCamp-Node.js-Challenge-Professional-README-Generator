@@ -1,4 +1,4 @@
-<h1 align="center">Professional-README-Generator  👋</h1>
+<h1 align="center">Professional-README-Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge-Module9-BC)
