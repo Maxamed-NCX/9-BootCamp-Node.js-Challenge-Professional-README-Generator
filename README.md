@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Mcnoor/Challenge-Module9-BC)
 
 ## UofM BootCamp: Application 9
-BootCamp-Node.js-Challenge-Professional-README-Generator
+BootCamp Node.js Challenge Professional README Generator
 
 ## Description
 
